@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.cache/
+data/raw/
+data/clean/
+data/index/
+*.onnx
+*.safetensors
+*.pt
+*.bin
